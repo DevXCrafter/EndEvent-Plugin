@@ -1,0 +1,7 @@
+messages:
+  joinmessage: "&6<player> &7a rejoint l'event"
+  deathmessage: "&c<player> a été tué par &b<damager>"
+  quitmessage: "&6<player> &7a quitté l'event"
+chrono:
+    duration: 0
+    start: 0

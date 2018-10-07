@@ -1,0 +1,4 @@
+name: EndEvent
+version: SNAPSHOT 1.0.0
+author: Arthur Servantie
+main: fr.devxcrafter.badblock.endevent.Main
